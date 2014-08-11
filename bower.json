@@ -1,0 +1,23 @@
+{
+  "name": "mapbox-gina-dist",
+  "version": "1.6.4",
+  "homepage": "https://github.com/gina-alaska/mapbox-dist",
+  "authors": [
+    "Will Fisher <will@teknofire.net>"
+  ],
+  "description": "compile version of mapbox.js",
+  "keywords": [
+    "mapbox",
+    "compiled",
+    "leaflet"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
